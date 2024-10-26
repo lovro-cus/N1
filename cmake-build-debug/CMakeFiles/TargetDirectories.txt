@@ -1,0 +1,3 @@
+C:/Users/lovro/OneDrive/Desktop/Fakulteta/3.Letnik/1.Semester/PPR/N1/cmake-build-debug/CMakeFiles/N1.dir
+C:/Users/lovro/OneDrive/Desktop/Fakulteta/3.Letnik/1.Semester/PPR/N1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lovro/OneDrive/Desktop/Fakulteta/3.Letnik/1.Semester/PPR/N1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
